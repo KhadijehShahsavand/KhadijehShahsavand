@@ -1,7 +1,7 @@
 # Khadijeh Shahsavand
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE/)
-[![Github](https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Follow&style=social)](https://github.com/YOUR-GITHUB-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khadijeh-shahsavand-5b5b3bb3/)
+[![Github](https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Follow&style=social)](https://github.com/KhadijehShahsavand)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:k_shahsa@live.concordia.ca)
 
 ## 👋 About Me
